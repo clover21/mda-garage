@@ -1,5 +1,4 @@
 @startuml
-'https://plantuml.com/use-case-diagram
 
 :Garage Owner: as owner
 (Open Garage) as (open)
