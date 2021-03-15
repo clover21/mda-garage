@@ -57,3 +57,4 @@ He explains that there is no one way to do things well and that development meth
 Although traditional object-oriented programming may seem more intuitive, the Anemic Domain Model approach, which is closer to functional programming, is less complex and easier to test. It allows for a greater decoupling of data and business logic and is more suitable for a majority of use cases.
 
 I agree with the author of the second article in the sense that I think that certain principles should not become dogma. Programming is not an exact science and there is not only one way to program an application. A good programmer must have a flexible mind and look for efficiency before respecting rigid principles, while keeping in mind the basic good practices.
+
